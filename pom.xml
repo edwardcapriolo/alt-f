@@ -7,6 +7,12 @@
     <name>alt-f</name>
     <groupId>io.teknek<groupId>
 
+
+
+<properties>
+    <aspectjweaver.version>1.9.1</aspectjweaver.version>
+</properties>
+
     <dependencies>
         <dependency>
             <groupId>org.aspectj</groupId>
